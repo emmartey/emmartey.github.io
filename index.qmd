@@ -1,9 +1,9 @@
 ---
 title: "Hi there!"
 pagetitle: "Emmanuel N. Nartey"
-description-meta: "Emmanuel N. Nartey is a research scientist at Virginia Tech's Center for Biostatistics and Health Data Science."
-main-photo: img/emmartey_img.jpg
-main-photo-square: img/emmartey_img.jpg
+description-meta: "Emmanuel Nartey is a research scientist at Virginia Tech's Center for Biostatistics and Health Data Science."
+main-photo: img/emmartey_img.jpeg
+main-photo-square: img/emmartey_img_square.jpeg
 title-block-banner: "#FDCA40"
 format:
   html:
@@ -34,12 +34,13 @@ format:
 
 ::: {.g-col-12 .g-col-sm-8}
 
-I am Emmanuel Naatei Nartey ...
+I'm a research scientist at Virginia Tech's [Center for Biostatistics and Health Data Science](https://biostat.centers.vt.edu/). I received a PhD in Statistics and Analytics at [Central Michigan University](https://www.cmich.edu/program/statistics-analytics-phd) in 2024.  
 
-Hold ...
+My current methodological research interests include how to optimally cluster data objects into homogeneous subgroups when the number of clusters are not known a priori, and how to select informative features when building machine learning applications.  
 
-Hold...
-Please feel free to [contact me](mailto:mail.enarteynaatei@gmail.com) if you have any questions or would like to discuss potential projects.
+With my biostatistics expertise, I collaborate with clinicians and public health researchers to answer critical questions in health- and medical-related domains to inform practice and policy.  
+
+Please feel free to [contact me](mailto:mail.enarteynaatei@gmail.com) if you have any questions or would like to discuss potential projects and collaborations.
 
 :::
 

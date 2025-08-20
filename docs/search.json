@@ -4,28 +4,14 @@
     "href": "index.html",
     "title": "Hi there!",
     "section": "",
-    "text": "I am Emmanuel Naatei Nartey …\nHold …\nHold… Please feel free to contact me if you have any questions or would like to discuss potential projects."
+    "text": "I’m a research scientist at Virginia Tech’s Center for Biostatistics and Health Data Science. I received a PhD in Statistics and Analytics at Central Michigan University in 2024.\nMy current methodological research interests include how to optimally cluster data objects into homogeneous subgroups when the number of clusters are not known a priori, and how to select informative features when building machine learning applications.\nWith my biostatistics expertise, I collaborate with clinicians and public health researchers to answer critical questions in health- and medical-related domains to inform practice and policy.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects and collaborations."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "cv/index.html",
+    "href": "cv/index.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "research/index.html#the-languages-of-middle-earth",
-    "href": "research/index.html#the-languages-of-middle-earth",
-    "title": "Research",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "research/index.html#the-history-of-the-war-of-the-ring",
-    "href": "research/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Research",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+    "text": "Download current CV"
   },
   {
     "objectID": "bookmarks/index.html",
@@ -70,10 +56,24 @@
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
   },
   {
-    "objectID": "cv/index.html",
-    "href": "cv/index.html",
-    "title": "Curriculum Vitae",
+    "objectID": "research/index.html",
+    "href": "research/index.html",
+    "title": "Research",
     "section": "",
-    "text": "Download current CV"
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "research/index.html#the-languages-of-middle-earth",
+    "href": "research/index.html#the-languages-of-middle-earth",
+    "title": "Research",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "research/index.html#the-history-of-the-war-of-the-ring",
+    "href": "research/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Research",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
   }
 ]
