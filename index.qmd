@@ -3,7 +3,7 @@ title: "Hi there!"
 pagetitle: "Emmanuel N. Nartey"
 description-meta: "Emmanuel Nartey is a research scientist at Virginia Tech's Center for Biostatistics and Health Data Science."
 main-photo: img/emmartey_img.jpeg
-main-photo-square: img/emmartey_img_square.jpeg
+main-photo-square: img/emmartey_img.jpeg
 title-block-banner: "#FDCA40"
 format:
   html:
