@@ -7,32 +7,32 @@
     "text": "I’m a research scientist at Virginia Tech’s Center for Biostatistics and Health Data Science. I received a PhD in Statistics and Analytics at Central Michigan University in 2024.\nMy current methodological research interests include how to optimally cluster data objects into homogeneous subgroups when the number of clusters are not known a priori, and how to select informative features when building machine learning applications.\nWith my biostatistics expertise, I collaborate with clinicians and public health researchers to answer critical questions in health- and medical-related domains to inform practice and policy.\nPlease feel free to contact me if you have any questions or would like to discuss potential projects and collaborations."
   },
   {
+    "objectID": "talks/index.html",
+    "href": "talks/index.html",
+    "title": "Talks",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "talks/index.html#the-languages-of-middle-earth",
+    "href": "talks/index.html#the-languages-of-middle-earth",
+    "title": "Talks",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "talks/index.html#the-history-of-the-war-of-the-ring",
+    "href": "talks/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Talks",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
     "objectID": "cv/index.html",
     "href": "cv/index.html",
     "title": "Curriculum Vitae",
     "section": "",
     "text": "Download current CV"
-  },
-  {
-    "objectID": "bookmarks/index.html",
-    "href": "bookmarks/index.html",
-    "title": "Bookmarks",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "bookmarks/index.html#the-languages-of-middle-earth",
-    "href": "bookmarks/index.html#the-languages-of-middle-earth",
-    "title": "Bookmarks",
-    "section": "",
-    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
-  },
-  {
-    "objectID": "bookmarks/index.html#the-history-of-the-war-of-the-ring",
-    "href": "bookmarks/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Bookmarks",
-    "section": "The History of the War of the Ring",
-    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
   },
   {
     "objectID": "blog/index.html",
@@ -56,24 +56,66 @@
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
   },
   {
-    "objectID": "research/index.html",
-    "href": "research/index.html",
-    "title": "Research",
+    "objectID": "bookmarks/index.html",
+    "href": "bookmarks/index.html",
+    "title": "Bookmarks",
     "section": "",
     "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   },
   {
-    "objectID": "research/index.html#the-languages-of-middle-earth",
-    "href": "research/index.html#the-languages-of-middle-earth",
-    "title": "Research",
+    "objectID": "bookmarks/index.html#the-languages-of-middle-earth",
+    "href": "bookmarks/index.html#the-languages-of-middle-earth",
+    "title": "Bookmarks",
     "section": "",
     "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
   },
   {
-    "objectID": "research/index.html#the-history-of-the-war-of-the-ring",
-    "href": "research/index.html#the-history-of-the-war-of-the-ring",
-    "title": "Research",
+    "objectID": "bookmarks/index.html#the-history-of-the-war-of-the-ring",
+    "href": "bookmarks/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Bookmarks",
     "section": "The History of the War of the Ring",
     "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "projects/index.html",
+    "href": "projects/index.html",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-languages-of-middle-earth",
+    "href": "projects/index.html#the-languages-of-middle-earth",
+    "title": "Projects",
+    "section": "",
+    "text": "arXiv Preprint | Code\nOver the centuries, I have devoted countless hours to deciphering and translating the ancient scripts and dialects of the various peoples of Middle-earth. My goal is to gain a deeper understanding of the cultures and histories of these peoples by studying their languages. Currently, I am working on a monograph that explores the linguistic roots of the Elvish languages. Through extensive research and analysis, I hope to shed light on the connections between the different dialects of Elvish and their origins. This project has been particularly challenging, as Elvish is a complex and nuanced language, but I am determined to see it through to completion."
+  },
+  {
+    "objectID": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "href": "projects/index.html#the-history-of-the-war-of-the-ring",
+    "title": "Projects",
+    "section": "The History of the War of the Ring",
+    "text": "The History of the War of the Ring\n\narXiv Preprint | Code\nI am creating a comprehensive and detailed history of the conflict that goes beyond the surface-level events. By gathering information from a variety of sources, including my own memories, written accounts, and oral histories, I hope to shed new light on this important period in Middle-earth’s history and provide valuable insights into the motivations and actions of the various players involved."
+  },
+  {
+    "objectID": "blog/index.html#section",
+    "href": "blog/index.html#section",
+    "title": "Blog",
+    "section": "2025",
+    "text": "2025\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/index.html#section-1",
+    "href": "blog/index.html#section-1",
+    "title": "Blog",
+    "section": "2024",
+    "text": "2024\n\n\n\n\n\n\n\n\n\n\nStatistical Consulting as the Unifying Force in Quantitative Science Education\n\n\n\n\n\n\nconsulting\n\n\ngrad_student\n\n\ninternship\n\n\n\nPractical consulting and collaboration opportunities prepare quantitative science students for successful careers.\n\n\n\n\n\nMarch 23, 2024\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "blog/2024/03/23/statistical-consulting/index.html",
+    "href": "blog/2024/03/23/statistical-consulting/index.html",
+    "title": "Statistical Consulting as the Unifying Force in Quantitative Science Education",
+    "section": "",
+    "text": "As I reflected on my graduate school education, it became clear that students that are enrolled in Statistics and Data Science programs could benefit from statistical consulting opportunities that are integrated into their learning experiences. I was fortunate to hold such consulting graduate assistantship positions with multiple industrial internships and can attest to usefulness of these engagements in preparing me for a career in statistical and quantitative sciences.\nI’ve held the experiential learning perspective for so long that Kennesaw State University - School of Data Science and Analytics, one of the leading programs that has scaled this model for their students was top on my list for my PhD application for that reason. Even though I didn’t get into the program, I’ve stayed connected to the institution through a subscription to their monthly newsletter. I usually look forward to reading Bill Franks’ blogs.\nFor schools that do not currently have KSU’s influence to attract strategic industry partnerships to build analytics labs for their students, nor have the funds to create standalone consulting centers to service their university community and beyond, they can improvise in a few ways. One of them is introducing Statistical Consulting coursework. There is sufficient literature on how this model has been used in some institutions. Another approach is learning from the case studies model of MBA programs, where statistics and data science case studies can be analyzed in already existing applied courses. There is a plethora of such case studies already on the web (example) that can be adapted for such purposes. Another source of case studies will be white papers and ML engineering blogs (see Antoine Broyelle’s curated list of such blogs) written by companies with advanced data analytics capabilities. Creative faculty members can put a spin on this strategy by reaching out to the analytics teams of local companies requesting white papers on how they unlocked the potential of their companies, using statistics, data science, and analytics solutions.\nHaving industry speakers share their experiences is also another way to approach the practical experience problem, even though it is more passive. In my small way, I’ve tried to extend this opportunity to student colleagues at my institution through some of the activities our registered student organization holds like the industry speaker series, internship panel to debrief summer experiences, and data analysis challenges. I’ve also sown seed by gifting to my department a purchased copy of Jennifer Priestley’s “Closing the Analytics Talent Gap” book. Check it out here. The chair of my department was surprised by this gesture. 😀\nHow can educational institutions more effectively merge academic learning with practical, industry-based experiences in the field of Statistics and Analytics?\nThis Nature article inspired me to publicly share my thoughts on how statistics and analytics education can be improved.\nThis blog post was originally published on LinkedIn."
   }
 ]
